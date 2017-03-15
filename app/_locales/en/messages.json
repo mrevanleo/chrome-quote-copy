@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Quote Copy",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Quickly cite text with quotation marks added automatically and \"[...]\" at the beginning and/or end of the quote.",
+    "description": "The description of the application"
+  }
+}
